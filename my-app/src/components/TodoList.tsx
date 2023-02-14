@@ -2,13 +2,14 @@ import Todo from "./Todo";
 type todoParams = {
   todos: Array<any>;
   setTodos: (value: any) => void;
+  filteredTodos: Array<any>;
 };
 
-const ToDo = ({ todos, setTodos }: todoParams) => {
+const ToDo = ({ todos, setTodos, filteredTodos }: todoParams) => {
   return (
     <div className="todo-container">
       <ul className="todo-list">
-        {todos.map((todo) => (
+        {filteredTodos.map((todo) => (
         <Todo
           key={todo.id}
           todo={todo}
