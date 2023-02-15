@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.06a6fa1c.css",
-    "main.js": "/react-gh-pages/static/js/main.a7a272e9.js",
-    "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.06a6fa1c.css.map": "/react-gh-pages/static/css/main.06a6fa1c.css.map",
-    "main.a7a272e9.js.map": "/react-gh-pages/static/js/main.a7a272e9.js.map",
-    "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/ToDoApp_Tutorial/static/css/main.06a6fa1c.css",
+    "main.js": "/ToDoApp_Tutorial/static/js/main.ef6e705d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ToDoApp_Tutorial/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/ToDoApp_Tutorial/index.html",
+    "main.06a6fa1c.css.map": "/ToDoApp_Tutorial/static/css/main.06a6fa1c.css.map",
+    "main.ef6e705d.js.map": "/ToDoApp_Tutorial/static/js/main.ef6e705d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ToDoApp_Tutorial/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06a6fa1c.css",
-    "static/js/main.a7a272e9.js"
+    "static/js/main.ef6e705d.js"
   ]
 }
